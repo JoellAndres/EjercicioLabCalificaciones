@@ -1,0 +1,12 @@
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\calificaciones\calificaciones\bin\Debug\calificaciones.exe.config
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\calificaciones\calificaciones\bin\Debug\calificaciones.exe
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\calificaciones\calificaciones\bin\Debug\calificaciones.pdb
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\calificaciones\calificaciones\obj\Debug\calificaciones.csprojResolveAssemblyReference.cache
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\calificaciones\calificaciones\obj\Debug\calificaciones.exe
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\calificaciones\calificaciones\obj\Debug\calificaciones.pdb
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\CalificacionesPag192\calificaciones\calificaciones\bin\Debug\calificaciones.exe.config
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\CalificacionesPag192\calificaciones\calificaciones\obj\Debug\calificaciones.exe
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\CalificacionesPag192\calificaciones\calificaciones\obj\Debug\calificaciones.pdb
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\CalificacionesPag192\calificaciones\calificaciones\bin\Debug\calificaciones.exe
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\CalificacionesPag192\calificaciones\calificaciones\bin\Debug\calificaciones.pdb
+D:\U.D.A\Segundo semestre\Laboratotio 2\Ejercicios\CalificacionesPag192\calificaciones\calificaciones\obj\Debug\calificaciones.csprojResolveAssemblyReference.cache
