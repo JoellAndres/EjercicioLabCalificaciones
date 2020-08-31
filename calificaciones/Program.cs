@@ -15,14 +15,8 @@ namespace calificaciones
             float suma = 0.0f, promedio = 0.0f;
             float nMay, nMen;
 
-            try{
-                Console.Write("Ingrese la cantidad de alumnos: ");
-                nAlumnos = Convert.ToInt32(Console.ReadLine());
-
-            }catch(Exception e){
-                Console.WriteLine("Ha ocurrido una excepcion: "+ e);
-            }
-            
+            Console.Write("Ingrese la cantidad de alumnos: ");
+            nAlumnos = Convert.ToInt32(Console.ReadLine());            
 
             float[] calificaciones = new float[nAlumnos];
 
